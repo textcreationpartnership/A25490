@@ -1,0 +1,190 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another great victory obtained by the Lord Lambert against Sir George Booth, on Sunday morning last with the manner of his taking the city of Chester and throwing open the gates, the taking of the five hundred prisoners and divers eminent commanders, viz, Maj. Gen. Egerton, the Lord Kilmurrey, Col. Brooks and Sir Wil. Neal : as also another desperate fight at Leverpool, the taking of the town, the beating and pursuing of the enemy toward Wales, and the escape of Sir George Booth with 200 horse to Cherk Castle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25490</idno>
+            <idno type="STC">Wing A3268</idno>
+            <idno type="STC">ESTC R14812</idno>
+            <idno type="EEBO-CITATION">11922342</idno>
+            <idno type="OCLC">ocm 11922342</idno>
+            <idno type="VID">50983</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50983)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 48:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another great victory obtained by the Lord Lambert against Sir George Booth, on Sunday morning last with the manner of his taking the city of Chester and throwing open the gates, the taking of the five hundred prisoners and divers eminent commanders, viz, Maj. Gen. Egerton, the Lord Kilmurrey, Col. Brooks and Sir Wil. Neal : as also another desperate fight at Leverpool, the taking of the town, the beating and pursuing of the enemy toward Wales, and the escape of Sir George Booth with 200 horse to Cherk Castle.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Delamer, George Booth, --  Baron, 1622-1684.</term>
+               <term>Lambert, John, 1619-1683.</term>
+               <term>Chester, Battle of, 1659.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="text">
+            <pb facs="tcp:50983:1"/>
+            <pb facs="tcp:50983:1"/>
+            <p>Another Great VICTORY Obtained by the Lord LAMBERT AGAINST Sir George Booth, On <hi>SUNDAY</hi> Morning laſt; With the manner of His taking the City of <hi>Chester,</hi> and throwing open the Gates; the taking of Five Hundred priſoners, and divers eminent Commanders; <hi>viz.</hi>
+               <list>
+                  <item>Maj. Gen. <hi>Egerton,</hi>
+                  </item>
+                  <item>The Lord <hi>Kilmur<g ref="char:EOLhyphen"/>rey,</hi>
+                  </item>
+                  <item>Col. <hi>Brooks,</hi>
+                  </item>
+                  <item> And Sir <hi>Wil. Neal.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>AS ALSO, Another deſperate Fight at <hi>Lever<g ref="char:EOLhyphen"/>pool:</hi> the taking of the Town; the beating and purſuing of the Enemy towards <hi>Wales;</hi> and the Eſcape of Sir <hi>George Booth,</hi> with 200 Horſe, to <hi>Cherk</hi> Caſtle.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>EDW, HORTON,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50983:2"/>
+            <pb n="3" facs="tcp:50983:2"/>
+            <head>Another Great VICTORY OBTAINED By the Lord <hi>Lambert,</hi> againſt the Forces of Sir <hi>George Booth;</hi> and the taking of the City of <hi>CHESTER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament having received a Letter from the Lord <hi>Lambert,</hi> giving an Ac<g ref="char:EOLhyphen"/>count of the Defeat and routing of the Forces under the command of Sir <hi>Geo. Booth,</hi> near <hi>Northwitch</hi> in <hi>Cheſhire,</hi> ano<g ref="char:EOLhyphen"/>ther Expreſs likewiſe came on <hi>Tueſday</hi> morning, of their taking of the City of <hi>Cheſter;</hi> A perfect Narra<g ref="char:EOLhyphen"/>tive whereof, together with the Diſpute and Engage<g ref="char:EOLhyphen"/>ment, we ſhall here impartially communicate, <hi>viz.</hi>
+            </p>
+            <p>The Lord <hi>Lambert</hi> underſtanding that Sir <hi>George Booth</hi> was marching towards him with an intention to ſight, drew out his Army into Battalia on Friday morning laſt, neer <hi>Northwitch,</hi> where the Enemy
+<pb n="4" facs="tcp:50983:3"/>quartered that night; who being diſcovered, drew out of the Town amongſt the Incloſures, where it was impoſſible for horſe to do ſervice, and not without difficulty for the Foot to break through. Nevertheleſs the Lord <hi>Lambert</hi> preſently drew out a party to en<g ref="char:EOLhyphen"/>gage them, and after a ſhort diſpute, and ſome ſmall skirmiſhes, (but gallant vollies,) they quitted their grounds, and retreated from hedge to hedge, yet in that order as they ſuffered very little damage, it be<g ref="char:EOLhyphen"/>ing impoſſible for our horſe to fall in amongſt them; and at length drew back to <hi>Winington</hi> Bridge, behind which they retreated, without any other loſs than that of Reputation, and diſcouragement in meeting with thoſe whom they found of equal courage, but engaged in a better Cauſe. Their next endeavour was to ſecure the Bridge, where they drew up their Foot on both ſides, and their horſe upon a Hill be<g ref="char:EOLhyphen"/>hind them; great Advantages they had, both in re<g ref="char:EOLhyphen"/>gard the River was unfordable, the Bridge narrow, flanker'd with a ſtrong Ditch on the Farr-end, and the Hill ſo high, up which no horſe could paſs otherwiſe than along the ſide in a narrow path. But the Van of our foot, which was Col. <hi>Hewſons</hi> Regiment, advan<g ref="char:EOLhyphen"/>ced up with 3 Troops of horſe within half Piſtol ſhot, receiving two vollies of ſhot from the Enemy: Upon which we charging, the Enemies foot threw down their Arms, quit their ſtation, and fled to their horſe, ſcrambling up the Hill, after their flying Co<g ref="char:EOLhyphen"/>lours. Major <hi>Creed</hi> purſued with a party of horſe; and marching up the Hill in purſuance of the Enemy, who had rallied ſome foot on the top of the Hill, they fited on him, but he anſwering their charge, their horſ fled. But, to ſpeak truth, they fought gallantly at the firſt; and, to the fame of both it may be ſaid, the acti<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:50983:3"/>of the horſe was performed on both ſides like <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>-men. We had the purſuit of them above a quar<g ref="char:EOLhyphen"/>ter of a mile, where they again made Head, but were routed, and thereupon their Horſe and Foot fled on all hands, and our work was onely to give them Chaſe. Moſt of their Foot got into Incloſures, and eſcaped; our wearied Foot not able to overtake them, nor poſ<g ref="char:EOLhyphen"/>ſible for the horſe to get to them.</p>
+            <p>During the time of this Diſpute, the enemy had left in <hi>Northwich</hi> two Companies of Foot, and two Troops of horſe; which when the Lord <hi>Lambert</hi> heard of, ſens the Adjutant General, with Cap. <hi>Evanſon</hi>'s Troop, and a Troop of Dragoons, who advancing up to the bridge and firing upon them, the enemy drew off in good order; but not being able to make their re<g ref="char:EOLhyphen"/>treat, was routed, and purſued within 2 or 3 miles of <hi>Mancheſter.</hi> For the number ſlain and hurt, we ſhall refer you to the Letter hereunto annexed, ſent from a Surgeon in the Army, to his Friend in <hi>London;</hi> a true Copy whereof followeth:</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Am now (bleſſed be God) furniſhed with Newes for you: no leſs then the routing and total defeat<g ref="char:EOLhyphen"/>ing of Sir <hi>George Booth's</hi> Army this day. Yeſter<g ref="char:EOLhyphen"/>day we marched from <hi>Nantwich,</hi> (having ſtayed for ſome time there to refreſh our men, and the coming up of the reſt of our Foot) intending to march to <hi>Tar<g ref="char:EOLhyphen"/>poley</hi> within 7. miles of <hi>Cheſter:</hi> But underſtanding by ſome Warrants of theirs; by which they had re<g ref="char:EOLhyphen"/>quired Proviſions to be brought to them that morn<g ref="char:EOLhyphen"/>ing for 5500 Foot and Horſe; that they were for a March; and having certain Intelligence they march<g ref="char:EOLhyphen"/>ed towards <hi>Northwich,</hi> my Lord altered his firſt In<g ref="char:EOLhyphen"/>tentions,
+<pb n="6" facs="tcp:50983:4"/>and marched after them over the Forreſt of <hi>Delamore:</hi> and when we were a little entred upon the Forreſt; we diſcerned their Body; It being a fine Champion, we made all the haſte we could: but they marched off the Forreſt before we could come up; onely our Scouts fell upon their Rear, and took ſome priſoners; but night coming on, hindred any further action; and ſo we marched into <hi>Waram,</hi> and they into <hi>Northwich,</hi> two miles diſtant. This morn<g ref="char:EOLhyphen"/>ing we drew out as ſoon as we could ſee, &amp; gave them a great Alarm, and drew into Battalia upon <hi>Hartford</hi> Green, between <hi>Waram</hi> and <hi>Northwich;</hi> and they drew forth of <hi>Northwich</hi> towards us, as though they would have fought; but we preſſing upon them, their Van marched over <hi>Winnington</hi> Bridge leading to <hi>Warring<g ref="char:EOLhyphen"/>ton,</hi> thinking to eſcape us: but We fell on upon their Rear, and put them to flight: They thought to have kept the Bridge, which was of great advantage to them, and diſadvantage to Us; they having at the end of the Bridge, Hedges and a Bark: yet after a ſhort Diſpute, our Foot undauntedly marched over the Bridge, and put them to rout, up a high Hill, where their Horſe were drawn up, and the hedges lined with Foot; from whence alſo they were quickly beat, and put to a total rout, throwing down Arms &amp; Colours, and we had the purſuit of them a great way in Lanes and Incloſures: Their Foot are all broke and di<g ref="char:EOLhyphen"/>ſperſt; If it had been a Champion Countrey, few of them had eſcaped to carry home Newes. One party of them fled to <hi>Cheſter,</hi> and another to <hi>Warrington;</hi> the Horſe are ſtill in the purſuit of them: One is return<g ref="char:EOLhyphen"/>ed from our horſe, who brings word, that Major <hi>Creed</hi> purſued them within 5. miles of <hi>Cheſter,</hi> and went ſtill on. Our wearied Foot returned here from the purſuit about twelve or one of the clock to Quarters.
+<pb n="7" facs="tcp:50983:4"/>Here are in the Church about 200 priſoners. I can<g ref="char:EOLhyphen"/>not give you particulars, divers are killed: I do not know or hear of any we have had killed, and but a few wounded, and I hope none mortally; I was with them, and dreſt ſome few. We had a ſore March upon <hi>Thurſday,</hi> but God carried us thorow all; and with that Courage and Alacrity, that I have not ſeen. Our Men went on with ſuch Shouts and Acclamati<g ref="char:EOLhyphen"/>ons, that I think aſtoniſhed the Enemy. The terror of the Lord of Hoſts was ſurely upon them. Com<g ref="char:EOLhyphen"/>municate this, that God may have the glory. I reſt. <hi>&amp;c.</hi>
+                  </p>
+                  <p>My Lord marches to morrow to <hi>Cheſter,</hi> and alſo ſends a ſmart party to <hi>Warrington</hi> and <hi>Mancheſter.</hi>
+                  </p>
+                  <closer>
+                     <dateline>
+                        <hi>Northwich,</hi>
+                        <date>Aug. 19. 1659.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <p>The Enemy left in <hi>Cheſter</hi> 4. Companies of Foot, a Troop of Horſe, beſides what eſcap'd thither from the Fight near <hi>Northwich,</hi> and what that diſaffected City will afford in Towneſmen. Sir <hi>George Booth</hi> fly<g ref="char:EOLhyphen"/>ing with ſome horſe toward <hi>Cheſter,</hi> was purſued by Major <hi>Creed</hi> within two miles of the City. Another party of them running towards <hi>Mancheſter,</hi> were pur<g ref="char:EOLhyphen"/>ſued by Col. <hi>Swallow;</hi> and Col. <hi>Ireland,</hi> with 100 horſe, ran towards <hi>Leverpool.</hi> Their Horſe at firſt were a gal<g ref="char:EOLhyphen"/>lant Body, about 1800. The Officers taken priſoners, are, <hi>viz.</hi> Col. <hi>William Maſsey.</hi> Major <hi>Harriſon,</hi> lately a Capt. in the Parliaments Army. Cap. <hi>Philip Egerton.</hi> Major <hi>James Scotfield.</hi> Capt. <hi>Martland.</hi> Capt. <hi>Smith.</hi> Sir <hi>Richard Greſvener</hi>'s ſon. Capt. <hi>Coſel.</hi> Capt. <hi>Stutley,</hi> Capt. <hi>Davies.</hi> Lieut. <hi>Davies.</hi> Lieut. <hi>Seare.</hi> Cornet <hi>Gill.</hi> Enſign <hi>Ward.</hi> Enſign <hi>Langſhaw;</hi> and <hi>John Brom<g ref="char:EOLhyphen"/>ley</hi> of <hi>Wolverhampton,</hi> Gent. The number of private
+<pb n="8" facs="tcp:50983:5"/>Souldiers then taken were 236. 30 Colours, and many Horſe.</p>
+            <p>Their Word was, <hi>Have at All.</hi> Ours was, <hi>God with Us.</hi>
+            </p>
+            <p>The Lord Lambert purſuing this ſeaſonable Victory, on Saturday laſt in the afternoon ſate down before Cheſter; And on Sunday morning the Citizens opened the Gates to let him in, being welcomed with ſeveral Vo<g ref="char:EOLhyphen"/>lies of ſhot from the great Guns in the Caſtle, and joyfully entertained by Col. Croxton the Governour. The Horſe and Foot left by Sir <hi>George Booth</hi> to maintain the City, are moſt of them taken, 500 being priſoners; as alſo divers eminent Commanders; among whom are,
+<list>
+                  <item>Major General <hi>Egerton,</hi>
+                  </item>
+                  <item>The Lord <hi>Kilmurrey,</hi>
+                  </item>
+                  <item>Collonel <hi>Brooks,</hi>
+                  </item>
+                  <item>Sir <hi>William Neal.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Sir George Booth is fled with 200 horſe to Cherk Caſtle; and Col. Ireland, and ſome of the great Ones to Leverpool. The Lord Lambert hath ſecured Cheſter, and is in purſuit of them with a conſiderable party of Horſe and Dragoons towards North wales. The hearts of the enemy begin to melt like water within them, and Leverpool offers to ſurrender. The reſt are in a languiſhing condition, and know not where to take San<g ref="char:EOLhyphen"/>ctuary; there being no means left unaſſayed, to prevent their imbarquing beyond the Seas.</p>
+            <p>Thus may we ſee the Lord eminently continuing his wonted hand of mercy, toward them that fear him, and ſo apparently blaſting the Traiter<g ref="char:EOLhyphen"/>ous undertakings of Adverſaries, in every Corner of the Countries.</p>
+            <p>Since the receit of this News, another Meſſenger arrived at White-hall, on Tueſday the 23 inſtant, in the afternoon, who advertizeth, That Col. Aſhfield, and Lieu. Col. Duckenfield, with a Party of horſe and foot, bear upon the Enemies Rear, in their Retreat to Leverpool; and purſuing ſo cloſe, fell upon them in the Town, bear them out, killed ſome, took divers priſoners; the reſt fled towards Cherk Caſtle, but are cloſe purſued.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50983:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
